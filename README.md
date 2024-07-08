@@ -4,7 +4,7 @@ Computer-Ruiner Is A Program That Tells You You Won Something, But It Deletes Sy
 
 Prank Your Friends With This! (Please Don't)
 
-DO NOT RUN THIS, It Deletes System 32
+DO NOT RUN THIS
 
 FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE THIS PROGRAM TO HARM ANY COMPUTERS
 # What To Do If Run:
