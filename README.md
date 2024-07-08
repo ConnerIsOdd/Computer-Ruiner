@@ -6,6 +6,8 @@ Prank Your Friends With This! (Please Don't)
 
 DO NOT RUN THIS!
 
+Compatible With Windows Only.
+
 FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE THIS PROGRAM TO HARM ANY COMPUTERS!
 # What To Do If Run:
 
