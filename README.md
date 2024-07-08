@@ -14,3 +14,5 @@ FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE THIS PROGRAM TO HARM ANY COMPUT
 Computer Ruiner Does Not Immeadietly Delete System32.
 
 It Only Deletes It If You Answer All Questions Asked And Confirm That You Want To "Redeem Your Reward", So Just Don't Be Stupid.
+
+If You Do Confirm It, You Have Exactly 2.0 Seconds To Close The Program.
