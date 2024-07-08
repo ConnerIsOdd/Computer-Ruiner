@@ -10,4 +10,5 @@ FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE THIS PROGRAM TO HARM ANY COMPUT
 # What To Do If Run:
 
 Computer Ruiner Does Not Immeadietly Delete System32.
+
 It Only Deletes It If You Answer All Questions Asked And Confirm That You Want To "Redeem Your Reward", So Just Don't Be Stupid
