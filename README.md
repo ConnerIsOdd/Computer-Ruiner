@@ -6,7 +6,7 @@ Prank Your Friends With This! (Please Don't)
 
 DO NOT RUN THIS!
 
-Compatible With Windows Only.
+Compatible With Windows Only, You MUST HAVE Python 3 Or Higher Installed For This Program To Run Properly!
 
 FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE THIS PROGRAM TO HARM ANY COMPUTERS!
 # What To Do If Run:
